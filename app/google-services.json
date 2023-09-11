@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416475342608",
+    "project_id": "tech-support-hub-bf5fb",
+    "storage_bucket": "tech-support-hub-bf5fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416475342608:android:6f9d1f7b159bf62f78a795",
+        "android_client_info": {
+          "package_name": "com.example.techsupport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtddkNajFtgCCvpV7FL7JA2TlH3Pqnxik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
